@@ -19,10 +19,10 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: Testing Title
 site_description: A Material Design theme for MkDocs
 site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url: https://docs-test-dmc.readthedocs.io/
 
 # Repository
 repo_name: squidfunk/mkdocs-material
